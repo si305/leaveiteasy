@@ -1,3 +1,4 @@
 # leaveiteasy
 This is my first git repository
-author-Sindhuja balane
+<br>
+Author-Sindhuja balane
